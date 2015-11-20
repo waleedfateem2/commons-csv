@@ -180,6 +180,7 @@ CSV files of various types.
             <exclude>**/CSVFormatTest.java</exclude>
             <exclude>**/CSVFileParserTest.java</exclude>
             <exclude>**/**/CSV*Test.java</exclude>
+            <exclude>**/FercGovTest.java</exclude>
           </excludes>
         </configuration>
       </plugin>
